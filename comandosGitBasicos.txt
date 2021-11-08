@@ -19,4 +19,9 @@ Passos para fazer merge entre branch
 8 Git push da branch principal
 
 
+comando para criar uma branch apartir da master
+
+git checkout -b sistemas-de-login master
+
+
   
