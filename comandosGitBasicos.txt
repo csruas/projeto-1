@@ -24,4 +24,7 @@ comando para criar uma branch apartir da master
 git checkout -b sistemas-de-login master
 
 
+comando para iggnorar commites -====== touch .gitignore
+
+
   
