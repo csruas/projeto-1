@@ -1,1 +1,4 @@
 git reflog "Para ver os log dos commit 
+
+
+git reset --hard mais o git reflog voce pode resetar o o commit para a versão correta mudando versoes 
