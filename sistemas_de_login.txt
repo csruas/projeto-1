@@ -1,1 +1,3 @@
-criar um login
+digite seu e-mail
+digite sua senha 
+digite sua idade
